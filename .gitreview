@@ -2,4 +2,4 @@
 host=softwarefactory-project.io
 port=29418
 project=software-factory/python-wsgiref-distgit
-defaultbranch=master
+defaultbranch=2.6
